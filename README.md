@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AarDG10
 - 👀 I’m interested in Competitive Coding & App Dev.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
