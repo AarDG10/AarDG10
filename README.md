@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f6zMddBDwrXCdyOeHx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/f6zMddBDwrXCdyOeHx/giphy.gif" width="100" height="200"/>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=AarDG10&style=flat-square&color=blue" alt=""/>
