@@ -4,9 +4,6 @@
 - 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f6zMddBDwrXCdyOeHx/giphy.gif" width="400" height="200"/>
-</div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=AarDG10&style=flat-square&color=green" alt=""/>
 </div>
