@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/f6zMddBDwrXCdyOeHx/giphy.gif" width="400" height="200"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AarDG10&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=AarDG10&style=flat-square&color=cyan" alt=""/>
 </div>
 <!---
 AarDG10/AarDG10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
