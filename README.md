@@ -12,8 +12,7 @@
 </div>
 Current Skills:-
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="200" height="100"/>&nbsp;
 </div>
 <!---
 AarDG10/AarDG10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
