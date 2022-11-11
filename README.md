@@ -14,6 +14,7 @@ Languages: -
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="200" height="100"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" title="C" width="75" height"30"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" width="75" height"30"/>&nbsp;
 </div>
 <!---
 AarDG10/AarDG10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
