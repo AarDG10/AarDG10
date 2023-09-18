@@ -4,7 +4,7 @@
 - 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/cd767ebd-5961-4d86-97cf-113398364af6) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Enthusiastic Computer Engineer and Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aardg10&label=Profile%20views&color=0e75b6&style=flat" alt="aardg10" /> </p>
 
