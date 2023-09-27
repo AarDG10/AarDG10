@@ -4,8 +4,9 @@
 - 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/cd767ebd-5961-4d86-97cf-113398364af6) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/)
-<h3 align="center">An Enthusiastic Computer Engineer and Developer</h3>
+<h3 align="center">An Enthusiastic Computer Engineer and Developer</h3> <br>
 [![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aardg10&label=Profile%20views&color=0e75b6&style=flat" alt="aardg10" /> </p>
 
 <h3 align="left">Connect with me:</h3>
