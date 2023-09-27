@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/)
 <h3 align="center">An Enthusiastic Computer Engineer and Developer</h3>
-
+[![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aardg10&label=Profile%20views&color=0e75b6&style=flat" alt="aardg10" /> </p>
 
 <h3 align="left">Connect with me:</h3>
