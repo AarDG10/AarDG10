@@ -1,3 +1,5 @@
+[![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
+
 - 👋 Hi, I’m @AarDG10
 - 👀 I’m interested in Competitive Coding, Machine Learning, Data Science
 - 🌱 I’m currently learning C++
