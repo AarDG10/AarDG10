@@ -1,6 +1,6 @@
 [![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
 
-- 👋 Hi, I’m @AarDG10
+- 👋 Hi, I’m Aarol D'Souza (also known as Getes07) on various CP Platforms
 - 👀 I’m interested in Competitive Coding, ML & DS, Software Development...Basically anything that involves Tech. :)
 - 🌱 I’m currently learning C++
 - 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/cd767ebd-5961-4d86-97cf-113398364af6) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
