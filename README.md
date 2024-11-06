@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Aarol D'Souza (also known as Getes07) on various CP Platforms
 - 👀 I’m interested in Competitive Coding, ML & DS, Software Development...Basically anything that involves Tech. :)
 - 🌱 I’m currently learning C++
-- 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/cd767ebd-5961-4d86-97cf-113398364af6) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
+- 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/)
 <h3 align="center">Software Developer and Math Enthusiast</h3> <br>
 <h3 align="left">Connect with me:</h3>
