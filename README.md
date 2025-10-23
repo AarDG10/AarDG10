@@ -1,8 +1,8 @@
 [![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
 
 - 👋 Hi, I’m Aarol D'Souza (also known as Getes07) on various CP Platforms
-- 👀 I’m interested in Competitive Coding, ML & DS, Software Development...Basically anything that involves Tech. :)
-- 🌱 I’m currently learning C++, Go and deep diving into the FinTech Domain!
+- 👀 I’m particularly interested in ML & Software Development...or basically anything that involves Tech. :)
+- 🌱 I’m currently learning C++, Go and Engineering @ Frappe Framework
 - 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/) (PS: Open To Open-Source Collabs or Any Cool Problem Statements)
 <h3 align="center">Software Engineer and Math Enthusiast</h3> <br>
