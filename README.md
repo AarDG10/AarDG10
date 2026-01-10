@@ -1,7 +1,6 @@
 [![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
 
 - 👋 Hi, I’m Aarol D'Souza (also known as Getes07) on various CP Platforms
-- 👀 I’m particularly interested in ML & Software Development...or basically anything that involves Tech. :)
 - 🌱 I’m currently learning C++, Go and Engineering @ Frappe Framework
 - 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/) (PS: Open To Open-Source Collabs or Any Cool Problem Statements)
@@ -13,7 +12,6 @@
 <a href="https://codeforces.com/profile/aarol.dsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aarol.dsouza" height="30" width="40" /></a>
 </p>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aarol.dsouza)
 <!---
 AarDG10/AarDG10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
