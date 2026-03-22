@@ -1,9 +1,9 @@
 [![An image of @aardg10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aardg10)](https://holopin.io/@aardg10)
 <h3 align="center">Software Engineer and Math Enthusiast</h3> <br>
 
-- 👋 Hi, I’m Aarol D'Souza (aka Getes07) on various CP Platforms
+- 👋 Hi, I’m Aarol D'Souza.
 - ⚙️ Engineering @ [Frappe Framework](https://github.com/frappe/frappe) 
-- 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/getes07) Profile, My [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
+- 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/aardsouza) Profile, My [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/) (PS: Open To Open-Source Collabs or Any Cool Problem Statements)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
