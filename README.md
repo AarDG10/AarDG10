@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Aarol D'Souza.
 - ⚙️ Engineering @ [Frappe Framework](https://github.com/frappe/frappe) 
-- 💻 My Competitive Coding Handles--> My [Codeforces](https://codeforces.com/profile/aarol.dsouza) Profile, My [Codechef](https://www.codechef.com/users/aardsouza) Profile, My [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/) Profile, My [Leetcode](https://leetcode.com/AarDG10/) Profile
+- 💻 Former Competitive Coder @ [Codeforces](https://codeforces.com/profile/aarol.dsouza), [Codechef](https://www.codechef.com/users/aardsouza), [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/), [Leetcode](https://leetcode.com/AarDG10/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/) (PS: Open To Open-Source Collabs or Any Cool Problem Statements)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
