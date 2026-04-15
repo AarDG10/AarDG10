@@ -5,11 +5,7 @@
 - ⚙️ Engineering @ [Frappe Framework](https://github.com/frappe/frappe) 
 - 💻 Former Competitive Coder @ [Codeforces](https://codeforces.com/profile/aarol.dsouza), [Codechef](https://www.codechef.com/users/aardsouza), [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/), [Leetcode](https://leetcode.com/AarDG10/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/) (PS: Open To Open-Source Collabs or Any Cool Problem Statements)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aarol-d-souza-a25893259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aarol-d-souza-a25893259/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aardsouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="getes07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aarol.dsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aarol.dsouza" height="30" width="40" /></a>
 </p>
 
 <!---
