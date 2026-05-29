@@ -5,6 +5,7 @@
 - ⚙️ Engineering @ [Frappe Framework](https://github.com/frappe/frappe) 
 - 💻 Former Competitive Coder @ [Codeforces](https://codeforces.com/profile/aarol.dsouza), [Codechef](https://www.codechef.com/users/aardsouza), [GeeksForGeeks](https://www.geeksforgeeks.org/user/aaroldsouza/), [Leetcode](https://leetcode.com/AarDG10/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aarol-d-souza-a25893259/) (PS: Open To Open-Source Collabs or Any Cool Problem Statements)
+- Currently exploring the buzz about AI/AI Research 🤖
 <p align="left">
 </p>
 
